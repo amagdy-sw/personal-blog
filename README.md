@@ -8,7 +8,7 @@ To get started:
 Visit: https://amagdy-sw.github.io/personal-blog/
 
 ## Acknowledgement
-Special Thanks for Udacity, 1 Million Arab Coders for providing us this interesting web development track
+Special Thanks for Udacity, 1 Million Arab Coders for providing us this interesting Frontend Developer Nanodegree
 
 ## Copyrights
 Udacity - Ahmed Magdy
