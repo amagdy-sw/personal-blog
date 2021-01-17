@@ -1,0 +1,39 @@
+
+
+@import "style.css";
+
+@import "boxing.css";
+
+@import "blog-layout.css";
+
+@import "contact-buttons.css";
+
+header {
+    grid-area: hd;
+}
+
+aside {
+    grid-area: sd;
+}
+
+aside h2 {
+    color: slateblue;
+}
+
+aside a {
+    color: black;
+}
+
+aside a:hover{
+    color:darkslategray;
+}
+
+section {
+    grid-area:main;
+}
+
+footer {
+    grid-area:ft;
+    text-align: center;
+    font-weight: bold;
+}

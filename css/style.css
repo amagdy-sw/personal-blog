@@ -1,0 +1,17 @@
+
+body {
+    background: #ccc9c9;
+    font-family: Tahoma, Verdana, sans-serif;
+}
+
+h1{
+    color: slategray;
+}
+
+h2{
+    color:teal;
+}
+
+.blog-img{
+    width: 100%;
+}

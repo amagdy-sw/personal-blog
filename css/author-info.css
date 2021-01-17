@@ -1,0 +1,18 @@
+
+
+.author-info-container {
+    display: flex;
+}
+  
+.author-info-container > div {
+    margin: 5px;
+    padding: 5px;
+}
+
+.author-avatar img{
+    width: 100%;
+}
+
+.author-info {
+    line-height: 1rem; 
+}

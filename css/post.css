@@ -1,0 +1,32 @@
+
+@import "style.css";
+
+@import "post-layout.css";
+
+@import "boxing.css";
+
+@import "author-info.css";
+
+@import "social-links.css";
+
+header {
+    grid-area: hd;
+}
+
+header a {
+    color: black;
+}
+
+header a:hover{
+    color:darkslategray;
+}
+
+section {
+    grid-area:main;
+}
+
+footer {
+    grid-area:ft;
+    text-align: center;
+    font-weight: bold;
+}

@@ -1,0 +1,16 @@
+
+.buttons-container {
+    display: flex;
+}
+  
+.buttons-container > a button {
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    font-size: 16px;
+    margin: 10px;
+    padding: 10px 24px;
+    cursor: pointer;
+}

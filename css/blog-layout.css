@@ -1,0 +1,29 @@
+
+.container{
+    display:grid;
+    width:90%;
+    margin:auto;
+    margin-top: 20px;
+    grid-template-columns: auto;
+    grid-template-rows: 90px auto 1fr;
+    grid-template-areas: 
+    "hd"
+    "sd"
+    "main"
+    "ft";
+}
+
+@media(min-width:900px) {
+    .container{
+        display:grid;
+        width:90%;
+        margin:auto;
+        margin-top: 20px;
+        grid-template-columns: 30px repeat(7, 1fr);
+        grid-template-rows: 90px auto 1fr;
+        grid-template-areas: 
+        "hd hd hd hd hd hd hd hd"
+        "sd sd main main main main main main"
+        "ft ft ft ft ft ft ft ft";
+    }
+}
