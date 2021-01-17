@@ -5,7 +5,7 @@ This project requires you to utilize your HTML and CSS skills to build out a per
 
 ## Instructions
 To get started:
-Visit: https://amagdy-sw.github.io/personal-blog/blog.html
+Visit: https://amagdy-sw.github.io/personal-blog
 
 ## Acknowledgement
 Special Thanks for Udacity, 1 Million Arab Coders for providing us this interesting Frontend Developer Nanodegree
